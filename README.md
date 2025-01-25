@@ -6,6 +6,9 @@ Take a look at the **Healthcare Robotics Dashboard** in action! Click the link b
 
 [Healthcare Robotics Dashboard - Short Video](https://drive.google.com/file/d/1Z3dVOZK4C1jcNqWdYl3kxLj3Rf3o11Cw/view?usp=drive_link)
 
+## Snapshot of the Dashboard
+[Snapshot of the Dashboard](https://drive.google.com/file/d/1Z3dVOZK4C1jcNqWdYl3kxLj3Rf3o11Cw/view?usp=drive_link)
+
 
 This repository contains the code, data, and detailed explanation for a **Healthcare Robotics Dashboard** that provides insights into the performance, deployment, and efficiency of healthcare robotics across various countries and hospital types. The dashboard was built in Tableau to transform simulated raw data into actionable insights.
 
@@ -48,6 +51,11 @@ Using Tableau, the dataset was visualized to include:
 ### Prerequisites
 - [Python 3.7+](https://www.python.org/downloads/) for running the data simulation script.
 - [Tableau](https://www.tableau.com/) for visualization.
+
+## Run the Python script to generate the dataset:
+- python Code.ipynb
+- Open Tableau and load the generated dataset (healthcare_robotics_1.csv).
+- Import the .twb or .twbx Tableau workbook to view the dashboard.
 
 ### Steps to Reproduce
 1. Clone this repository:
