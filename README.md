@@ -7,7 +7,7 @@ Take a look at the **Healthcare Robotics Dashboard** in action! Click the link b
 [Healthcare Robotics Dashboard - Short Video](https://drive.google.com/file/d/1Z3dVOZK4C1jcNqWdYl3kxLj3Rf3o11Cw/view?usp=drive_link)
 
 ## Snapshot of the Dashboard
-[Snapshot of the Dashboard]()
+![Snapshot of the Dashboard](./Dashboard.png)
 
 
 This repository contains the code, data, and detailed explanation for a **Healthcare Robotics Dashboard** that provides insights into the performance, deployment, and efficiency of healthcare robotics across various countries and hospital types. The dashboard was built in Tableau to transform simulated raw data into actionable insights.
